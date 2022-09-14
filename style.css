@@ -47,5 +47,6 @@ a:visited {
     left: 50%;
     transform: translate(-50%, -50%);
     height: 500;
+    cursor: pointer;
     
 }
