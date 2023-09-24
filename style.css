@@ -6,6 +6,7 @@ h1 {
     left: 50%;
     transform: translateX(-50%);
     font-family: 'Hammersmith One', sans-serif;
+    font-size: 2vw;
 }
 
 body {
