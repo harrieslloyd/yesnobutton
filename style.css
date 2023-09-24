@@ -6,7 +6,7 @@ h1 {
     left: 50%;
     transform: translateX(-50%);
     font-family: 'Hammersmith One', sans-serif;
-    font-size: 4vw;
+    font-size: 5vw;
 }
 
 body {
@@ -22,12 +22,12 @@ a {
     color:black;
     text-decoration: none;
     text-align: center;
-    font-size: 20px;
+    font-size: 4vw;
     transition-duration: 0.4s;
 }
 
 a:hover {
-    font-size: 22px;
+    font-size: 4.2vw;
     
 }
 
