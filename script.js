@@ -8,7 +8,7 @@ $( "#button" ).click(function() {
       });
       gsap.to("#button", { 
         duration: 0.2,
-        width:500,
+        width:50vh,
         rotation: 0,
     });
     if(Math.floor(Math.random() * 2) == 1) {
