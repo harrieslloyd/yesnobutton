@@ -8,6 +8,10 @@ h1 {
     font-family: 'Hammersmith One', sans-serif;
 }
 
+body {
+    background-color: white;
+}
+
 a {
     position: fixed;
     bottom: 50px;
